@@ -1,0 +1,17 @@
+{
+  "name": "palindrome-vaibhav",
+  "version": "1.0.0",
+  "description": "its a palindrome program for words created by vaibhav jadhav",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "palindrome"
+  ],
+  "author": "VaibhavJadhav",
+  "license": "ISC",
+  "dependencies": {
+    "word-utils-shani": "^1.0.0"
+  }
+}

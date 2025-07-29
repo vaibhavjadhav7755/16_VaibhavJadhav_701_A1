@@ -1,0 +1,23 @@
+{
+  "name": "que1",
+  "version": "1.0.0",
+  "description": "practical_assignment_que1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "que1"
+  },
+  "keywords": [
+    "node",
+    "assignment",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
